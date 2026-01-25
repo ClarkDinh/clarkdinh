@@ -11,25 +11,21 @@ I am Tai Dinh. I am an associate professor at The Kyoto College of Graduate Stud
 ## Languages and Tools
 
 Languages / Platforms
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cs,java,r,django,linux&perline=12" />
 </p>
 
 Software
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,anaconda,latex,qt&perline=12" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,anaconda,latex,qt&perline=12" />
+  <img alt="Zotero" src="https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white" />
 </p>
-
-- MAXQDA, Orange Data Mining, Zotero, Mendeley.  
-
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=clarkdinh&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarkdinh&layout=donut&theme=tokyonight" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=clarkdinh&theme=onedark&column=7" />
-</p>
-
 
 ---
 
