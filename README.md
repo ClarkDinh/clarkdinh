@@ -26,10 +26,10 @@ Software
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=clarkdinh&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarkdinh&layout=donut&theme=tokyonight" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=clarkdinh&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=clarkdinh&theme=onedark&column=7" />
 </p>
+
 
 ---
 
