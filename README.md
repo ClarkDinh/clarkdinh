@@ -20,7 +20,7 @@ Software
   <img src="https://skillicons.dev/icons?i=vscode,anaconda,latex,qt&perline=12" />
 </p>
 
-- Qt Designer, MAXQDA, Orange Data Mining
+- MAXQDA, Orange Data Mining, Zotero, 
 
 <p align="center">
   <img height="170"
