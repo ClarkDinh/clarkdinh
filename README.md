@@ -29,12 +29,5 @@ Software
 
 ---
 
-## Research Interests
-- data mining, machine learning, data science  
-- pattern mining, (un)supervised learning  
-- geoinformatics, healthcare analytics, sentiment analysis  
-
----
-
 ## Contact
 - Email: [it08duytai@gmail.com](mailto:it08duytai@gmail.com)
