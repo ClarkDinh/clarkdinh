@@ -42,6 +42,16 @@ Software
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=clarkdinh&theme=tokyo-night&hide_border=true" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=clarkdinh&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=clarkdinh&theme=tokyo-night&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=clarkdinh&theme=onedark&column=7" />
+</p>
+
 
 
 ---
