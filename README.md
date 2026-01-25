@@ -1,16 +1,8 @@
 ## Hi there 👋
 
-# I am Tai Dinh
+I am **Tai Dinh**. I am an **associate professor** at **The Kyoto College of Graduate Studies for Informatics**, Kyoto, Japan. My research interests lie in **data science**, where I work on various topics such as **pattern mining**, **(un)supervised learning**, **geoinformatics**, **healthcare**, and **sentiment analysis**. Before KCGI, I was a **postdoctoral researcher (2020–2022)** at the **International Excellent Core for Materials Informatics at JAIST**. I hold a **PhD in Knowledge Science**, specializing in **Data Mining**, from **JAIST (2020)**.
 
-**Associate Professor**  
-[AToMM Laboratory](YOUR_LAB_URL)  
-The Kyoto College of Graduate Studies for Informatics  
-<p>
-  <!-- Replace these with whatever icons you want (and wrap with links if needed) -->
-  <a href="https://scholar.google.com/citations?user=YOUR_ID">
-    <img height="26" alt="Google Scholar"
-      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" />
-  </a>
-</p>
+🔗 **Lab:** [AToMM Laboratory](YOUR_LAB_URL)  
+🔗 **Personal:** [Personal Website](YOUR_PERSONAL_URL)
 
 ---
